@@ -1,3 +1,3 @@
 # PowerBI
 
-![BNPL Customer Segmentation](https://raw.githubusercontent.com/SGRKAPOOR/PowerBI/main/BNPL%20customer%20segmentation.jpg)
+![BNPL Customer Segmentation](https://drive.google.com/file/d/1c6qYlDXzMkGIdpVD_GybKSrmfbrBMk24/view?usp=drive_link)
