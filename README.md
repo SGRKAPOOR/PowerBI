@@ -1,3 +1,3 @@
 # PowerBI
 
-![BNPL Customer Segmentation](/BNPL Customer segmentation.jpg)
+![BNPL Customer Segmentation](BNPL%20Customer%20segmentation.jpg)
