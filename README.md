@@ -6,7 +6,6 @@ Unlock actionable insights into your Buy Now, Pay Later (BNPL) customer base wit
 
 - **Customer Segmentation:** Identify distinct customer segments based on loan behavior and demographics.
 - **Credit Risk Assessment:** Evaluate credit risk factors to mitigate defaults and optimize lending decisions.
-- **Operational Efficiency Metrics:** Monitor loan processing efficiency and operational performance metrics.
 - **Demographic Insights:** Understand customer demographics to target marketing efforts effectively.
 
 ## Benefits
